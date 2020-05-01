@@ -1,0 +1,41 @@
+/* volgende class is toegevoegd aan de navigatie en regelt de achtergondkleur */
+
+
+
+/* volgende class regelt de marges en padding van de navigatie */
+.navbar{
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  padding: 5%;
+
+
+
+}
+.navbar-nav a{
+  color: maroon !important;
+}
+.dropdown-menu a{
+  color: white !important;
+}
+.navbar-collapse{
+margin-left: 1vw;
+}
+.navbar ul{
+list-style: none;
+float: left;
+  margin: 0;
+
+  padding-top:50px;
+  color:#black;
+
+}
+  .nav.navbar-nav li a {
+  color: brown ;
+}
+
+.navbar .description{
+  padding-top:50px;
+
+
+}
